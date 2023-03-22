@@ -33,4 +33,5 @@ public class PaytmDetails {
 
     private Map<String, String> details;
 
+
 }
